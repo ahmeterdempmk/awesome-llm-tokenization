@@ -1,0 +1,21 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python (common for tokenizer testing)
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Logs
+*.log

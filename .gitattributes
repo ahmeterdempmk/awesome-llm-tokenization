@@ -1,0 +1,17 @@
+# Auto-detect text files and perform LF normalization
+* text=auto
+
+# Custom for Markdown
+*.md text
+*.md diff=markdown
+
+# Linguistic data
+*.txt text
+*.json text
+
+# Graphics
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg text
